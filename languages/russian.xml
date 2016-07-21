@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_ext_web_select_all">Выбрать Все</string>
+    <string name="menu_ext_web_copy">Копировать</string>
+    <string name="menu_ext_web_share">Поделиться</string>
+    <string name="menu_ext_web_share_intent_subject">Выбранный Текст</string>
+    <string name="menu_ext_web_share_intent_send_to">Отправить</string>
+    <string name="menu_ext_web_search_web">Веб-поиск</string>
+    <string name="menu_ext_web_search_dict">Перевести</string>
+
+    <string name="menu_select_dictionary">Словари</string>
+    <string name="menu_select_word">Слова</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_about_dictan">О Программе</string>
+
+    <string name="menu_context_article_text_header_title">Опции</string>
+    <string name="menu_context_article_text_item_copy">Копировать</string>
+    <string name="menu_context_article_text_item_copy_all">Копировать Все</string>
+    <string name="menu_context_article_text_item_search">Поиск</string>
+
+    <string name="btn_def">Деф</string>
+    <string name="btn_set">Уст</string>
+
+    <string name="filechooser_btn_default_text">Дефолт</string>
+    <string name="filechooser_btn_cancel_text">Отменить</string>
+    <string name="filechooser_btn_select_text">Выбрать</string>
+
+    <string name="fontchooser_btn_cancel_text">Отменить</string>
+    <string name="fontchooser_btn_select_text">Выбрать</string>
+
+    <string name="npicker_error_empty">Значение не сохранено: Число не введено</string>
+    <string name="npicker_error_oor">Значение не сохранено: Число должно быть от 1 до 99</string>
+
+    <string name="act_select_dictionary_title">Словари</string>
+    <string name="act_select_dictionary_list_fs">Файл. Система</string>
+    <string name="act_select_dictionary_list_recent">Недавние</string>
+
+    <string name="act_select_word_title">Слова</string>
+    <string name="act_select_word_list_favorites">Избранные</string>
+    <string name="act_select_word_list_recent">Недавние</string>
+    <string name="act_select_word_favorite_word_add_dialog_title">Добавить в Избранное</string>
+    <string name="act_select_word_favorite_word_add">Добавить</string>
+    <string name="act_select_word_favorite_word_add_to">Добавить в Избранное</string>
+    <string name="act_select_word_favorite_word_added">Добавлено</string>
+    <string name="act_select_word_favorite_word_already_in_list">уже в списке</string>
+    <string name="act_select_word_favorite_word_remove">Удалить</string>
+    <string name="act_select_word_favorite_word_removed">Удалено</string>
+    <string name="act_select_word_favorite_word_edit_dialog_title">Редактирование слова</string>
+    <string name="act_select_word_favorite_word_edit">Редактировать</string>
+    <string name="act_select_word_favorite_word_edited">изменено на</string>
+    <string name="act_select_word_favorite_word_move_down">Вниз</string>
+    <string name="act_select_word_favorite_word_move_up">Вверх</string>
+
+    <string name="act_settings_interface">Интерфейс</string>
+    <string name="act_settings_translation">Перевод</string>
+    <string name="act_settings_tab_interface">Интерфейс</string>
+    <string name="act_settings_tab_translation">Перевод</string>
+    <string name="act_settings_work_directory_title">Путь к словарным базам</string>
+    <string name="act_settings_work_directory_dialog_title">Выбор Рабочей Директории</string>
+    <string name="act_settings_fonts_directory_title">Путь к папке шрифтов</string>
+    <string name="act_settings_fonts_directory_dialog_title">Выбор Директории Шрифтов</string>
+    <string name="act_settings_locale_language">Язык (требуется перезапуск)</string>
+    <string name="act_settings_color_style">Цветовой стиль (требуется перезапуск)</string>
+    <string name="act_settings_interface_orientation">Ориентация экрана</string>
+    <string name="act_settings_fsdl">Размер шрифта списка словарей</string>
+    <string name="act_settings_rdl">Размер списка недавних словарей</string>
+    <string name="act_settings_rdl_dialog_title">Размер списка недавних словарей (1–99)</string>
+    <string name="act_settings_rwl">Размер списка недавних слов</string>
+    <string name="act_settings_rwl_dialog_title">Размер списка недавних слов (1–99)</string>
+    <string name="act_settings_search_suggestions_title">Подсказки</string>
+    <string name="act_settings_search_suggestions_summary">Использовать подсказки для поиска слов (должно быть включено в настройках системы)</string>
+    <string name="act_settings_search_selective_wl_size">Размер списка выборочного поиска</string>
+    <string name="act_settings_search_selective_wl_size_dialog_title">Размер списка выборочной сортировки</string>
+    <string name="act_settings_iface_force_list_fonts">Использовать шрифт перевода для списков (помогает если в них есть спец. символы)</string>
+
+    <string name="act_settings_article_font">Шрифт статьи</string>
+    <string name="act_settings_wl_font">Шрифт списка слов</string>
+    <string name="act_settings_dl_font">Шрифт списка словарных баз</string>
+    <string name="act_settings_ext_search_type">Поиск из внешних программ</string>
+    <string name="act_settings_ext_search_type_dialog_title">Внешний Поиск</string>
+    <string name="act_settings_int_search_type">Внутренний поиск</string>
+    <string name="act_settings_trans_longclick">Действие долгого нажатия</string>
+    <string name="act_settings_trans_links_http_title">Внешние ссылки</string>
+    <string name="act_settings_trans_links_http_summary">Включить ссылки HTTP/HTTPS</string>
+    <string name="act_settings_trans_oldstyle_title">Вид статьи</string>
+    <string name="act_settings_trans_oldstyle_summary">Использовать текстовый вид (не рекомендуется)</string>
+
+    <string name="act_settings_buttons_bases_title">Словарные базы</string>
+    <string name="act_settings_buttons_bases_summary">Показать кнопку выбора словарных баз</string>
+    <string name="act_settings_buttons_words_title">Слова</string>
+    <string name="act_settings_buttons_words_summary">Показать кнопку выбора слов</string>
+    <string name="act_settings_buttons_settings_title">Настройки</string>
+    <string name="act_settings_buttons_settings_summary">Показать кнопку настроек</string>
+    <string name="act_settings_buttons_about_title">Информация о программе</string>
+    <string name="act_settings_buttons_about_summary">Показать кнопку информации о программе</string>
+
+    <string name="pref_root_bar_title">Настройки</string>
+    <string name="pref_iface_title">Интерфейс</string>
+    <string name="pref_iface_bar_title">Настройки Интерфейса</string>
+    <string name="pref_iface_summary">Основные настройки приложения</string>
+    <string name="pref_articles_title">Статьи</string>
+    <string name="pref_articles_bar_title">Настройки Статей</string>
+    <string name="pref_articles_summary">Настройки показа статей</string>
+    <string name="pref_lists_title">Списки</string>
+    <string name="pref_lists_bar_title">Настройки Списков</string>
+    <string name="pref_lists_summary">Настройки показа списков</string>
+    <string name="pref_search_title">Поиск</string>
+    <string name="pref_search_bar_title">Настройки Поиска</string>
+    <string name="pref_search_summary">Настройки поиска слов</string>
+    <string name="pref_buttons_title">Кнопки</string>
+    <string name="pref_buttons_bar_title">Настройки кнопок</string>
+    <string name="pref_buttons_summary">Настройки показа кнопок</string>
+
+    <string-array name="act_settings_trans_longclick_entries">
+        <item>Показать опции для работы с текстом</item>
+        <item>Искать статью для выделенного слова</item>
+    </string-array>
+
+    <string-array name="act_settings_interface_orientation_entries">
+        <item>Авто</item>
+        <item>Портрет</item>
+        <item>Пейзаж</item>
+    </string-array>
+
+    <string-array name="act_settings_locale_language_entries">
+        <item>Английский</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string-array name="act_settings_trans_search_ext_type_entries">
+        <item>Точное совпадение</item>
+        <item>Частичное совпадение (без 1ой буквы в окончании)</item>
+        <item>Частичное совпадение (без 2х букв в окончании)</item>
+        <item>Приблизительное совпадение</item>
+        <item>Частичное совпадение или список слов</item>
+        <item>Точное совпадение или список слов</item>
+        <item>Список слов</item>
+    </string-array>
+
+    <string-array name="act_settings_color_style_entries">
+        <item>Светлый</item>
+        <item>Тёмный</item>
+    </string-array>
+
+    <string-array name="pref_search_approximate_entries">
+        <item>Точное совпадение</item>
+        <item>Частичное совпадение (без 1ой буквы в окончании)</item>
+        <item>Частичное совпадение (без 2х букв в окончании)</item>
+    </string-array>
+
+    <string name="act_about_title">О Программе</string>
+    <string name="act_about_version">Версия</string>
+    <string name="act_about_tab_viewer">Dictan</string>
+    <string name="act_about_tab_dictionary">База</string>
+    <string name="act_about_tab_donations">Донейты</string>
+
+    <string name="info_error_dialog_title">Ошибка</string>
+    <string name="info_warn_dict_no_dictionary_files">Базы словарей не найдены. Пожалуйста добавьте хотя бы одну ZD/FDB базу в %s</string>
+    <string name="info_warn_db_like_not_supported">Формат не поддерживает \'like\' запросы</string>
+    <string name="info_error_fc_insufficient_rights_open_folder">Недостаточно прав для открытия пути: %s</string>
+
+    <string name="info_notification_found_words">Найдено слов: %s</string>
+    <string name="info_notification_found_more_words">Найдено более %s слов</string>
+
+</resources>

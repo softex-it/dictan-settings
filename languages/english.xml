@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_ext_web_select_all">Select All</string>
+    <string name="menu_ext_web_copy">Copy</string>
+    <string name="menu_ext_web_share">Share</string>
+    <string name="menu_ext_web_share_intent_subject">Selected Text</string>
+    <string name="menu_ext_web_share_intent_send_to">Send to</string>
+    <string name="menu_ext_web_search_web">Web Search</string>
+    <string name="menu_ext_web_search_dict">Translate</string>
+
+    <string name="menu_select_dictionary">Dictionaries</string>
+    <string name="menu_select_word">Words</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about_dictan">About</string>
+
+    <string name="menu_context_article_text_header_title">Options</string>
+    <string name="menu_context_article_text_item_copy">Copy</string>
+    <string name="menu_context_article_text_item_copy_all">Copy All</string>
+    <string name="menu_context_article_text_item_search">Search for</string>
+
+    <string name="btn_def">Default</string>
+    <string name="btn_set">Set</string>
+
+    <string name="filechooser_btn_default_text">Default</string>
+    <string name="filechooser_btn_cancel_text">Cancel</string>
+    <string name="filechooser_btn_select_text">Select</string>
+
+    <string name="fontchooser_btn_cancel_text">Cancel</string>
+    <string name="fontchooser_btn_select_text">Select</string>
+
+    <string name="npicker_error_empty">Value not saved: Number is empty</string>
+    <string name="npicker_error_oor">Value not saved: Number must be between 1 and 99</string>
+
+    <string name="act_select_dictionary_title">Dictionaries</string>
+    <string name="act_select_dictionary_list_fs">File System</string>
+    <string name="act_select_dictionary_list_recent">Recent</string>
+
+    <string name="act_select_word_title">Words</string>
+    <string name="act_select_word_list_favorites">Favorites</string>
+    <string name="act_select_word_list_recent">Recent</string>
+    <string name="act_select_word_favorite_word_add_dialog_title">Add to Favorites</string>
+    <string name="act_select_word_favorite_word_add">Add</string>
+    <string name="act_select_word_favorite_word_add_to">Add to Favorites</string>
+    <string name="act_select_word_favorite_word_added">Added</string>
+    <string name="act_select_word_favorite_word_already_in_list">is already in the list</string>
+    <string name="act_select_word_favorite_word_remove">Remove</string>
+    <string name="act_select_word_favorite_word_removed">Removed</string>
+    <string name="act_select_word_favorite_word_edit_dialog_title">Edit word</string>
+    <string name="act_select_word_favorite_word_edit">Edit</string>
+    <string name="act_select_word_favorite_word_edited">changed to</string>
+    <string name="act_select_word_favorite_word_move_down">Down</string>
+    <string name="act_select_word_favorite_word_move_up">Up</string>
+
+    <string name="act_settings_interface">Interface</string>
+    <string name="act_settings_translation">Translation</string>
+    <string name="act_settings_tab_interface">Interface</string>
+    <string name="act_settings_tab_translation">Translation</string>
+    <string name="act_settings_work_directory_title">Path to dictionary bases</string>
+    <string name="act_settings_work_directory_dialog_title">Select Work Directory</string>
+    <string name="act_settings_fonts_directory_title">Path to fonts directory</string>
+    <string name="act_settings_fonts_directory_dialog_title">Select Fonts Directory</string>
+    <string name="act_settings_locale_language">Language (requires program restart)</string>
+    <string name="act_settings_color_style">Color style (requires program restart)</string>
+    <string name="act_settings_interface_orientation">Screen orientation</string>
+    <string name="act_settings_fsdl">Dictionaries list font size</string>
+    <string name="act_settings_rdl">Recent bases list size</string>
+    <string name="act_settings_rdl_dialog_title">Recent bases list size (1–99)</string>
+    <string name="act_settings_rwl">Recent words list size</string>
+    <string name="act_settings_rwl_dialog_title">Recent words list size (1–99)</string>
+    <string name="act_settings_search_suggestions_title">Suggestions</string>
+    <string name="act_settings_search_suggestions_summary">Use suggestions for the word search (must be enabled globally)</string>
+    <string name="act_settings_search_selective_wl_size">Selective search list size</string>
+    <string name="act_settings_search_selective_wl_size_dialog_title">Selective search list size</string>
+    <string name="act_settings_iface_force_list_fonts">Use the translation font for lists (helps if they have special symbols)</string>
+
+    <string name="act_settings_article_font">Article font</string>
+    <string name="act_settings_wl_font">Word list font</string>
+    <string name="act_settings_dl_font">Dictionary base list font</string>
+    <string name="act_settings_ext_search_type">Search from external applications</string>
+    <string name="act_settings_ext_search_type_dialog_title">External Search</string>
+    <string name="act_settings_int_search_type">Internal Search</string>
+    <string name="act_settings_trans_longclick">Long click action</string>
+    <string name="act_settings_trans_links_http_title">External links</string>
+    <string name="act_settings_trans_links_http_summary">Enable HTTP/HTTPS links</string>
+    <string name="act_settings_trans_oldstyle_title">Article presentation</string>
+    <string name="act_settings_trans_oldstyle_summary">Use text view (not recommended)</string>
+
+    <string name="act_settings_buttons_bases_title">Dictionary bases</string>
+    <string name="act_settings_buttons_bases_summary">Show button of dictionary bases</string>
+    <string name="act_settings_buttons_words_title">Words</string>
+    <string name="act_settings_buttons_words_summary">Show button of words</string>
+    <string name="act_settings_buttons_settings_title">Settings</string>
+    <string name="act_settings_buttons_settings_summary">Show settings button</string>
+    <string name="act_settings_buttons_about_title">About</string>
+    <string name="act_settings_buttons_about_summary">Show about button</string>
+
+    <string name="pref_root_bar_title">Settings</string>
+    <string name="pref_iface_title">Interface</string>
+    <string name="pref_iface_bar_title">Interface Settings</string>
+    <string name="pref_iface_summary">General application settings</string>
+    <string name="pref_articles_title">Articles</string>
+    <string name="pref_articles_bar_title">Article Settings</string>
+    <string name="pref_articles_summary">Article view settings</string>
+    <string name="pref_lists_title">Lists</string>
+    <string name="pref_lists_bar_title">List Settings</string>
+    <string name="pref_lists_summary">List view settings</string>
+    <string name="pref_search_title">Search</string>
+    <string name="pref_search_bar_title">Search Settings</string>
+    <string name="pref_search_summary">Word search settings</string>
+    <string name="pref_buttons_title">Buttons</string>
+    <string name="pref_buttons_bar_title">Buttons Settings</string>
+    <string name="pref_buttons_summary">Buttons view settings</string>
+
+    <string-array name="act_settings_trans_longclick_entries">
+        <item>Show options to work with text</item>
+        <item>Search for the article of the selected word</item>
+    </string-array>
+
+    <string-array name="act_settings_interface_orientation_entries">
+        <item>Auto</item>
+        <item>Portrait</item>
+        <item>Landscape</item>
+    </string-array>
+
+    <string-array name="act_settings_locale_language_entries">
+        <item>English</item>
+        <item>Russian</item>
+    </string-array>
+
+    <string-array name="act_settings_trans_search_ext_type_entries">
+        <item>Exact match</item>
+        <item>Partial match (remove 1 ending char)</item>
+        <item>Partial match (remove 2 ending chars)</item>
+        <item>Closest match</item>
+        <item>Partial match or show word list</item>
+        <item>Exact match or show word list</item>
+        <item>Word list</item>
+    </string-array>
+
+    <string-array name="act_settings_color_style_entries">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+
+    <string-array name="pref_search_approximate_entries">
+        <item>Exact match</item>
+        <item>Partial match (remove 1 ending char)</item>
+        <item>Partial match (remove 2 ending chars)</item>
+    </string-array>
+
+    <string name="act_about_title">About</string>
+    <string name="act_about_version">Version</string>
+    <string name="act_about_tab_viewer">Dictan</string>
+    <string name="act_about_tab_dictionary">Base</string>
+    <string name="act_about_tab_donations">Donations</string>
+
+    <string name="info_error_dialog_title">Error</string>
+    <string name="info_warn_dict_no_dictionary_files">Dictionary bases are not found. Please add at least one ZD/FDB base to %s</string>
+    <string name="info_warn_db_like_not_supported">This format doesn\'t support \'like\' queries</string>
+    <string name="info_error_fc_insufficient_rights_open_folder">Insufficient rights to open the folder: %s</string>
+
+    <string name="info_notification_found_words">Words found: %s</string>
+    <string name="info_notification_found_more_words">Found more than %s words</string>
+
+
+
+
+    <!-- Below statements are not currently used -->
+
+    <!-- When a download completes, a notification is displayed, and this
+    string is used to indicate that the download successfully completed.
+    Note that such a download could have been initiated by a variety of
+    applications, including (but not limited to) the browser, an email
+    application, a content marketplace. -->
+    <string name="notification_download_complete">Download complete</string>
+
+    <!-- When a download completes, a notification is displayed, and this
+        string is used to indicate that the download failed.
+        Note that such a download could have been initiated by a variety of
+        applications, including (but not limited to) the browser, an email
+        application, a content marketplace. -->
+    <string name="notification_download_failed">Download unsuccessful</string>
+
+
+    <string name="state_unknown">Starting..."</string>
+    <string name="state_idle">Waiting for download to start</string>
+    <string name="state_fetching_url">Looking for resources to download</string>
+    <string name="state_connecting">Connecting to the download server</string>
+    <string name="state_downloading">Downloading resources</string>
+    <string name="state_completed">Download finished</string>
+    <string name="state_paused_network_unavailable">Download paused because no network is available</string>
+    <string name="state_paused_network_setup_failure">Download paused. Test a website in browser</string>
+    <string name="state_paused_by_request">Download paused</string>
+    <string name="state_paused_wifi_unavailable">Download paused because wifi is unavailable</string>
+    <string name="state_paused_wifi_disabled">Download paused because wifi is disabled</string>
+    <string name="state_paused_roaming">Download paused because you are roaming</string>
+    <string name="state_paused_sdcard_unavailable">Download paused because the external storage is unavailable</string>
+    <string name="state_failed_unlicensed">Download failed because you may not have purchased this app</string>
+    <string name="state_failed_fetching_url">Download failed because the resources could not be found</string>
+    <string name="state_failed_sdcard_full">Download failed because the external storage is full</string>
+    <string name="state_failed_cancelled">Download cancelled</string>
+    <string name="state_failed">Download failed</string>
+
+    <string name="kilobytes_per_second">%1$s KB/s</string>
+    <string name="time_remaining">Time remaining: %1$s</string>
+    <string name="time_remaining_notification">%1$s left</string>
+
+</resources>
